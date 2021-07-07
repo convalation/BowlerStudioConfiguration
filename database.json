@@ -1,23 +1,10 @@
 {
-  "workspace": {
-    "https://github.com/convalation/aa.git": [
-      "convalation/aa",
-      "1625650218592"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/51a9e0bc4ee095b03979.git:CNCMill.groovy": [
-      "https://gist.github.com/51a9e0bc4ee095b03979.git",
-      "CNCMill.groovy"
-    ],
-    "https://github.com/convalation/aa.git:aaa..c": [
-      "https://github.com/convalation/aa.git",
-      "aaa..c"
-    ],
-    "https://github.com/convalation/a.git:aa.SVG": [
-      "https://github.com/convalation/a.git",
-      "aa.SVG"
+    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
+      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
+      "DebuggingBowlerStudio.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -25,10 +12,9 @@
     "firstVersion": "1.29.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.29.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true,
     "currentVersion": "1.29.0"
   }
 }
