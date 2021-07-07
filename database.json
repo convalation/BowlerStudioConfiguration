@@ -1,18 +1,6 @@
 {
   "workspace": {},
   "studio-open-web": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Play",
-      "Game",
-      "X-Box",
-      "Dragon"
-    ],
-    "linkDeviceName": "hephaestus-16c00486",
-    "robotName": "HephaestusArmV2",
-    "robotGitFile": "hephaestus.xml",
-    "robotGit": "https://github.com/Hephaestus-Arm/HephaestusArm2.git"
-  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
