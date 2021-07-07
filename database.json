@@ -1,11 +1,12 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/convalation/aa.git": [
+      "convalation/aa",
+      "1625650218592"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\amd64\\jvm.cfg": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\amd64\\jvm.cfg"
-    ],
     "https://gist.github.com/51a9e0bc4ee095b03979.git:CNCMill.groovy": [
       "https://gist.github.com/51a9e0bc4ee095b03979.git",
       "CNCMill.groovy"
@@ -20,9 +21,14 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.29.0",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "1.29.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.29.0"
   }
 }
