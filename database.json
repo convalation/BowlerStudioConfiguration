@@ -5,6 +5,10 @@
     "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
       "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
       "DebuggingBowlerStudio.groovy"
+    ],
+    "none:C:\\Program Files (x86)\\Arduino\\RBPico-main\\rbpico.py": [
+      "none",
+      "C:\\Program Files (x86)\\Arduino\\RBPico-main\\rbpico.py"
     ]
   },
   "BowlerStudioConfigs": {
