@@ -5,6 +5,14 @@
     "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
       "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
       "DebuggingBowlerStudio.groovy"
+    ],
+    "none:E:\\RedBoard_Turbo-master\\Firmware\\Circuitpy Firmware\\firmware.uf2": [
+      "none",
+      "E:\\RedBoard_Turbo-master\\Firmware\\Circuitpy Firmware\\firmware.uf2"
+    ],
+    "none:E:\\.Trashes": [
+      "none",
+      "E:\\.Trashes"
     ]
   },
   "BowlerStudioConfigs": {
@@ -12,7 +20,7 @@
     "firstVersion": "1.29.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.29.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.29.0"
