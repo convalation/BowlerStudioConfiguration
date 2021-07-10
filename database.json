@@ -2,9 +2,9 @@
   "workspace": {},
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
-      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
-      "DebuggingBowlerStudio.groovy"
+    "https://github.com/convalation/rc.git:rrcc..c": [
+      "https://github.com/convalation/rc.git",
+      "rrcc..c"
     ]
   },
   "BowlerStudioConfigs": {
