@@ -6,10 +6,22 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+  },
   "studio-open-git": {
-    "https://github.com/convalation/rc.git:rrcc..c": [
-      "https://github.com/convalation/rc.git",
-      "rrcc..c"
+    "https://github.com/convalation/javaCad_convalation.git:javaCad.groovy": [
+      "https://github.com/convalation/javaCad_convalation.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
