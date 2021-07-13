@@ -3,6 +3,10 @@
     "https://github.com/convalation/rc.git": [
       "convalation/rc",
       "1625929979220"
+    ],
+    "https://github.com/convalation/javaCad_convalation.git": [
+      "convalation/javaCad_convalation",
+      "1626218766146"
     ]
   },
   "studio-open-web": {},
