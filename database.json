@@ -7,10 +7,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\bin\\pack200.exe": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\bin\\pack200.exe"
-    ],
     "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "javaCad.groovy"
