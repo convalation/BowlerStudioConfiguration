@@ -14,6 +14,10 @@
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
       "LewanSoulHorn.groovy"
+    ],
+    "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
+      "https://github.com/convalation/RedBoard_Turbo.git",
+      "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
     ]
   },
   "BowlerStudioConfigs": {
