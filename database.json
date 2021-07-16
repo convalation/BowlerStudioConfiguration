@@ -11,61 +11,13 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\Makefile": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\Makefile"
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
     ],
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\ext\\access-bridge-64.jar": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\ext\\access-bridge-64.jar"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\FirmataDefines.h": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\FirmataDefines.h"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\ATmegaBOOT.c": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\ATmegaBOOT.c"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\Boards.h": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\Boards.h"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\FirmataConstants.h": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\FirmataConstants.h"
-    ],
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudio-master\\.github\\workflows\\gradle-wrapper-validation.yml": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudio-master\\.github\\workflows\\gradle-wrapper-validation.yml"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\readme.md": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\readme.md"
-    ],
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\amd64\\jvm.cfg": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\amd64\\jvm.cfg"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\test\\firmata_test\\firmata_test.ino": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\test\\firmata_test\\firmata_test.ino"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\ATmegaBOOT_atmega128rfa1.hex": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\QC-RedBoard-Arduino-Addon-master\\avr\\bootloaders\\ATmegaBOOT_atmega128rfa1.hex"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\Firmata.cpp": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\Firmata.cpp"
-    ],
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudio-master\\.gitmodules": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudio-master\\.gitmodules"
-    ],
-    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\ext\\zipfs.jar": [
-      "none",
-      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\BowlerStudioApp\\jre\\lib\\ext\\zipfs.jar"
+    "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
+      "https://github.com/convalation/RedBoard_Turbo.git",
+      "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
     ]
   },
   "BowlerStudioConfigs": {
