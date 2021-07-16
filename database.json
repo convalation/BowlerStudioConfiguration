@@ -10,7 +10,24 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "none:F:\\remote-wiring-develop\\Microsoft.Maker.win8_1\\Microsoft.Maker.Firmata\\Microsoft.Maker.Firmata.Windows\\Microsoft.Maker.Firmata.Windows.vcxproj": [
+      "none",
+      "F:\\remote-wiring-develop\\Microsoft.Maker.win8_1\\Microsoft.Maker.Firmata\\Microsoft.Maker.Firmata.Windows\\Microsoft.Maker.Firmata.Windows.vcxproj"
+    ],
+    "none:C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\remote-wiring-develop\\source\\Firmata\\UwpFirmata.cpp": [
+      "none",
+      "C:\\Program Files (x86)\\Commonwealth Robotics BowlerStudio\\remote-wiring-develop\\source\\Firmata\\UwpFirmata.cpp"
+    ],
+    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
+      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+      "LewanSoulHorn.groovy"
+    ],
+    "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
+      "https://github.com/convalation/RedBoard_Turbo.git",
+      "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
