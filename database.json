@@ -11,10 +11,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\examples\\StandardFirmata\\StandardFirmata.ino": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\libraries\\Firmata\\examples\\StandardFirmata\\StandardFirmata.ino"
-    ],
     "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
       "https://github.com/convalation/RedBoard_Turbo.git",
       "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
