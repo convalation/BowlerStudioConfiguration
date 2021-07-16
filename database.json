@@ -7,9 +7,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "none:C:\\Users\\andre\\OneDrive\\Documents\\Arduino\\libraries\\BowlerCom\\examples\\BowlerSimple\\BowlerSimple.ino": [
+      "none",
+      "C:\\Users\\andre\\OneDrive\\Documents\\Arduino\\libraries\\BowlerCom\\examples\\BowlerSimple\\BowlerSimple.ino"
     ],
     "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git:LewanSoulHorn.groovy": [
       "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
@@ -23,7 +23,7 @@
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "1.29.0",
-    "skinRepo": "",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.29.0"
   }
 }
