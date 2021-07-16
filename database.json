@@ -18,14 +18,6 @@
     "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
       "https://github.com/convalation/RedBoard_Turbo.git",
       "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
-    ],
-    "none:C:\\Program Files (x86)\\Arduino\\examples\\01.Basics\\Blink\\Blink.ino": [
-      "none",
-      "C:\\Program Files (x86)\\Arduino\\examples\\01.Basics\\Blink\\Blink.ino"
-    ],
-    "none:C:\\Users\\andre\\OneDrive\\Documents\\Arduino\\libraries\\XboxControllerNotificationParser\\examples\\printOnSerialWithNimBLE\\printOnSerialWithNimBLE.ino": [
-      "none",
-      "C:\\Users\\andre\\OneDrive\\Documents\\Arduino\\libraries\\XboxControllerNotificationParser\\examples\\printOnSerialWithNimBLE\\printOnSerialWithNimBLE.ino"
     ]
   },
   "BowlerStudioConfigs": {
