@@ -3,6 +3,10 @@
     "https://github.com/convalation/BowlerStudioConfiguration.git": [
       "convalation/BowlerStudioConfiguration",
       "1626315015672"
+    ],
+    "https://github.com/convalation/RedBoard_Turbo.git": [
+      "convalation/RedBoard_Turbo",
+      "1626402229945"
     ]
   },
   "studio-open-web": {},
