@@ -11,10 +11,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "none:C:\\Users\\andre\\OneDrive\\Documents\\device codes\\BowlerStudio-1.29.0\\.github\\workflows\\gradle-wrapper-validation.yml": [
-      "none",
-      "C:\\Users\\andre\\OneDrive\\Documents\\device codes\\BowlerStudio-1.29.0\\.github\\workflows\\gradle-wrapper-validation.yml"
-    ],
     "https://github.com/convalation/RedBoard_Turbo.git:Documentation/GraphicalDatasheet-SamD21TurboDev.svg": [
       "https://github.com/convalation/RedBoard_Turbo.git",
       "Documentation/GraphicalDatasheet-SamD21TurboDev.svg"
