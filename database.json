@@ -8,6 +8,10 @@
       "convalation/RedBoard_Turbo",
       "1626402229945"
     ],
+    "https://gist.github.com/51a9e0bc4ee095b03979.git": [
+      "https://gist.github.com/51a9e0bc4ee095b03979.git",
+      "1663894142912"
+    ],
     "https://github.com/convalation/javaCad_convalation.git": [
       "convalation/javaCad_convalation",
       "1626583889984"
@@ -26,7 +30,12 @@
     "robotGitFile": "CNC.xml",
     "robotGit": "https://gist.github.com/51a9e0bc4ee095b03979.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/51a9e0bc4ee095b03979.git:CNCMill.groovy": [
+      "https://gist.github.com/51a9e0bc4ee095b03979.git",
+      "CNCMill.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.29.0",
